@@ -5,5 +5,6 @@
 затем подгружу их на комп
 
 ## okey let`s go
+# done bitches
 
 ## corr setup
