@@ -5,3 +5,5 @@
 затем подгружу их на комп
 
 ## okey let`s go
+
+## corr setup
