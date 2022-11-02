@@ -8,3 +8,4 @@
 # done bitches
 
 ## corr setup
+somethings shit
